@@ -32,7 +32,8 @@ Rapid prototyping
 Custom model training
 Inference APIs
 Prediction testing
-Tech Stack
+
+## Tech Stack
 Plexe AI
 APIs
 Postman
